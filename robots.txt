@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://richinterview.github.io/sitemap.xml
+Sitemap: https://fractalreason-coder.github.io/richinterview/sitemap.xml
