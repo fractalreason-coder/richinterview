@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://fractalreason-coder.github.io/richinterview/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://fractalreason-coder.github.io/richinterview/posts/팀-쿡의-애플-비전-EP1-정말-독특한-장소죠.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+<url><loc>https://fractalreason-coder.github.io/richinterview/posts/순다르-피차이의-구글-AI-EP1-말라바르-아라비카요.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+<url><loc>https://fractalreason-coder.github.io/richinterview/posts/순다르-피차이의-구글-AI-EP2-학생-때-첸나이에서-IIT-카라그푸르까지-코로만델-익스프.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/사티아-나델라의-AI-비전-EP1-이봐요-사티아-나델라.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/샘-알트만이-보는-AGI-EP2-샘-알트만이-말하는-구글-제미니와-딥시크-2.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/샘-알트만이-보는-AGI-EP3-샘-알트만이-말하는-코덱스-5.html</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
@@ -14,8 +17,6 @@
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/We-Dont-Write-Code-Anymore-Larry-Ellison-on-the-Fu.html</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/Infinite-Money-Glitch-This-is-how-Saylor-keeps-buy.html</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/If-it-feels-like-work-youve-already-lost-motivatio.html</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
-<url><loc>https://fractalreason-coder.github.io/richinterview/posts/NVIDIA-Earnings-Can-they-hit-72-growth.html</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
-<url><loc>https://fractalreason-coder.github.io/richinterview/posts/AI-Predicts-Who-Gets-Sick-Before-They-Do-ai-health.html</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/제롬-파월-AI가-버블이-아닌-이유-ai-나스닥.html</loc><lastmod>2025-11-01</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/리드-호프만-AI가-의사를-대체하는-이유-링크드인-창업자.html</loc><lastmod>2025-11-01</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/톰리가-예상하는-올-연말-이더리움-가격-이더리움-비트마인.html</loc><lastmod>2025-10-17</lastmod><priority>0.8</priority></url>
@@ -57,6 +58,8 @@
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/마이크로스트래티지-CEO-마이클세일러-한국어-인터뷰.html</loc><lastmod>2024-11-13</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/암호화폐에-반대하는-것은-정치적-자멸행위-코인베이스-CEO-브라이언-암스트롱-인터뷰.html</loc><lastmod>2024-11-13</lastmod><priority>0.8</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/posts/팔란티어-CEO-알렉스-카프-우린-10배-커질겁니다.html</loc><lastmod>2024-11-13</lastmod><priority>0.8</priority></url>
+<url><loc>https://fractalreason-coder.github.io/richinterview/people/팀-쿡.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://fractalreason-coder.github.io/richinterview/people/순다르-피차이.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/사티아-나델라.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/샘-알트만.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/젠슨-황.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -79,7 +82,6 @@
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/Brian-Chesky.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/Ron-Baron.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/마크-저커버그.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://fractalreason-coder.github.io/richinterview/people/순다르-피차이.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/Jacob-DeWitt.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/Peter-Beck.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 <url><loc>https://fractalreason-coder.github.io/richinterview/people/Alex-Karp.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
